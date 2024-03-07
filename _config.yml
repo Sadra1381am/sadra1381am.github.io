@@ -6,13 +6,12 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Sadra Moazzen
+name: Mohammad Sadra Moazzen
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
-
+email: moazzensadra81@gmail.com
+website: int-n.info
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 twitter_username: facespics
