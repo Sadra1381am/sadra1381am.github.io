@@ -45,11 +45,14 @@ linkedin_username: sadram
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.jpg 
 about_content: | # this will include new lines to allow paragraphs
+  **CV: [PDF](https://sadra1381am.github.io/CV.pdf)**
+  
   As an undergraduate in cellular and molecular biology, l excel in Python and data analysis, with a keen interest in neuroscience and memory research.
   I am most skilled in: <mark>Python</mark> and <mark>Data science</mark> and <mark>Neuroscience</mark>
-
+  
+content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
