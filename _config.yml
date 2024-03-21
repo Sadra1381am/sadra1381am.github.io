@@ -15,7 +15,7 @@ darkmode: never
 
 # Social links
 # twitter_username: facespics
-github_username:  Sadra1381am
+github_username:  sadra1381am
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -59,7 +59,7 @@ content:
       - layout: top-middle
         title: Ferdowsi University of Mashhad
         caption: 2021 - 2025
-        sub_title: BSc Cell & Molecular Biology
+        sub_title: B.Sc. Cell and Molecular Biology
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
