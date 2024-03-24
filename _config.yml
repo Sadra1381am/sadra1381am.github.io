@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   
   As an undergraduate in cellular and molecular biology, l excel in Python and data analysis, with a keen interest in neuroscience and memory research.
   
-  I am most skilled in: <mark>Python</mark> and <mark>Data science</mark> and <mark>Neuroscience</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>Data science</mark> and <mark>Neuroscience</mark>
   
 content:
   - title: Education # Title for the section
