@@ -31,7 +31,7 @@ linkedin_username: sadram
 additional_links:
 - title: Email
   icon: fas fa-solid fa-envelope
-  url: 'mailto:moazzensadra81@gmail.com'
+  url: "mailto:moazzensadra81@gmail.com"
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
