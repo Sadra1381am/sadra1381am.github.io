@@ -2,6 +2,7 @@ repository: mo-shakiba/intCV
 favicon: images/favicon.ico
 
 version: 2
+darkmode: never
 
 name: Mohammad Sadra Moazzen
 title: Researcher
