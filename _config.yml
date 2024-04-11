@@ -13,6 +13,7 @@ last_update: Mar 21, 2024
 github_username:  sadra1381am
 in_username: sadram
 googlescholar_username: 0A0A0A
+orcid_username: 0000-0000-0000-0000
 
 about_profile_image: images/profile.jpg 
 about_content: |
@@ -23,13 +24,14 @@ about_content: |
   I am most skilled in: <mark>Python</mark>, <mark>Data science</mark> and <mark>Neuroscience</mark>
   
 content:
-  - title: Education
-    layout: list
+  - title: Publications
+    layout: pub
     content:
-      - layout: top-middle
-        title: Ferdowsi University of Mashhad
-        caption: 2021 - 2025
-        sub_title: B.Sc. Cell and Molecular Biology
+      - title: "Lorem ipsum dolor sit amet, consectetur adipiscing elit,"
+        authors: <b>Moazzen, M.</b>, ...,
+        journal: eiusmod
+        link: 
+
 
 remote_theme: mo-shakiba/intCV
 
